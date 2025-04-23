@@ -1,10 +1,9 @@
 ---
 permalink: /
 
-title: "Reflection: Becoming a Maker-Scholar"
+title: "🪞 Becoming a Maker-Scholar: A Reflection"
 author_profile: true
 ---
-# 🪞 Becoming a Maker-Scholar: A Reflection
 
 This semester has marked a transformative shift in how I understand scholarship, storytelling, and digital creativity. As someone grounded in academic research, pedagogy, and media theory, I have always approached knowledge-making through critical analysis. But this course has allowed me to explore a different register—**making as a mode of knowing**, storytelling as a method of inquiry, and digital experimentation as a form of feminist praxis.
 
