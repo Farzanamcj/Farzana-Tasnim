@@ -18,7 +18,7 @@ In both of my portfolio projects, this shift became tangible:
 
 - **“Dust in the Floorboards”**, my Bitsy-based game poem, was an exercise in narrative restraint and spatial memory. Here, interactivity is affective—players move through a home once lived in, now only remembered. The minimalist tools of Bitsy helped me reflect on how little it takes to evoke loss and belonging, and how spatial design can be emotional storytelling.
   
-- **“Sentiment and Revolution”**, my data-driven project, used computational analysis to explore the emotional landscape of the 2024 Bangladeshi uprising. This project bridged my interests in political communication, digital culture, and public discourse. I realized how even cold, “objective” data could be transformed into a narrative about collective agency and emotional mobilization.
+- **“A Tiny Zine (Aladdin Reimagined)”**, a micro-publication that plays with form and format, allowed me to experiment with narrative remix and layout. This zine reimagines the story of *Aladdin* through a critical, poetic lens, challenging colonial and orientalist framings of the original tale. Creating a zine reminded me of the power of print-based storytelling in an increasingly digital world, and how remix culture offers space for resistance and reimagination.
 
 ---
 
