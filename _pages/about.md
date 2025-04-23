@@ -16,9 +16,9 @@ I entered this course identifying primarily as a researcher and educator. Throug
 
 In both of my portfolio projects, this shift became tangible:
 
-- **“Dust in the Floorboards”**, my Bitsy-based game poem, was an exercise in narrative restraint and spatial memory. Here, interactivity is affective—players move through a home once lived in, now only remembered. The minimalist tools of Bitsy helped me reflect on how little it takes to evoke loss and belonging, and how spatial design can be emotional storytelling.
+- **Dust in the Floorboards**, my Bitsy-based game poem, was an exercise in narrative restraint and spatial memory. Here, interactivity is affective—players move through a home once lived in, now only remembered. The minimalist tools of Bitsy helped me reflect on how little it takes to evoke loss and belonging, and how spatial design can be emotional storytelling.
   
-- **“A Tiny Zine (Aladdin Reimagined)”**, a micro-publication that plays with form and format, allowed me to experiment with narrative remix and layout. This zine reimagines the story of *Aladdin* through a critical, poetic lens, challenging colonial and orientalist framings of the original tale. Creating a zine reminded me of the power of print-based storytelling in an increasingly digital world, and how remix culture offers space for resistance and reimagination.
+- **A Tiny Zine (Aladdin Reimagined)**, a micro-publication that plays with form and format, allowed me to experiment with narrative remix and layout. This zine reimagines the story of *Aladdin* through a critical, poetic lens, challenging colonial and orientalist framings of the original tale. Creating a zine reminded me of the power of print-based storytelling in an increasingly digital world, and how remix culture offers space for resistance and reimagination.
 
 ---
 
@@ -40,11 +40,8 @@ This final portfolio is a snapshot of where I am now as a maker-scholar—but it
 I now see “critical making” as a methodological stance: one that is political, poetic, and personal.
 
 
-title: "🧠 Research and Teaching"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+## 🧠 Research and Teaching
+
 ---
 
 My academic journey spans across journalism, digital culture, and social justice. I specialize in:
