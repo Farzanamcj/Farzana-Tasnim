@@ -1,37 +1,10 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
-
 main:
-
----
-layout: page
-title: "Portfolio Experiment #1 A Tiny Zine!"
-permalink: /zine/
----
-
-## ✨ A Tiny Zine!
-
-![Cover image of the zine, A Tiny Zine](../assets/files/A4_myZine_Aladdin.pdf)
-
-This micro-zine reimagines the story of *Aladdin* through a playful and minimalist lens. It experiments with visual abstraction and constrained space to distill a classic tale into a compact artistic artifact.
-
-Created using a single-page foldable format, the zine combines illustration, symbolism, and alternative page structure to explore the boundaries of storytelling and remix culture. The project is presented in its original form as part of the final portfolio submission.
-
-👉 [Click here to view the zine (PDF)](/assets/files/A4_myZine_Aladdin.pdf)
-
+  - title: "Portfolio"
+    children:
+      - title: "Portfolio Experiment #1: A Tiny Zine!"
+        url: /zine/
   - title: "Publications"
     url: https://journals.sagepub.com/doi/10.1177/09760911241256556
-
-    
   - title: "CV"
-    url: https://drive.google.com/file/d/1o0zIEdMlQYJ2lm5AaV-jsTXK0VSiIvZd/view?usp=drive_link/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-  
+    url: https://drive.google.com/file/d/1o0zIEdMlQYJ2lm5AaV-jsTXK0VSiIvZd/view?usp=drive_link
+ 
