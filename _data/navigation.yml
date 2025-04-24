@@ -1,8 +1,7 @@
 main:
-  - title: "Portfolio"
+  - title: "Portfolio Experiment"
     children:
-      - title: "Portfolio Experiment #1: A Tiny Zine!"
-        url: /zine/
+        url: /portfolio/
   - title: "Portfolio Experiments"
     url: /portfolio/
   - title: "Publications"
