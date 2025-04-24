@@ -6,11 +6,11 @@ permalink: /portfolio_experiment/
 
 # 🎨 Portfolio Experiments
 
-![Zine Cover - Aladdin](https://raw.githubusercontent.com/Farzanamcj/Farzana-Tasnim/master/images/aladin.jpeg)
-
 Welcome to a curated selection of creative and critical media experiments. Each piece reflects a unique exploration of form, content, and medium.
 
 ## 📘 Portfolio Experiment #1: A Tiny Zine!
+
+<img src="/images/aladin.jpeg" alt="Zine Cover - Aladdin" style="max-width: 600px; width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin: 1em 0;" />
 
 <div style="border: 1px solid #ccc; padding: 1em; border-radius: 10px; background-color: #fdfdfd;">
   <strong><a href="https://github.com/Farzanamcj/Farzana-Tasnim/blob/master/files/A4_myZine_Aladdin.pdf" target="_blank">📄 Click here to view the full zine (PDF)</a></strong>
