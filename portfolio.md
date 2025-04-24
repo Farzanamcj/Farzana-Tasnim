@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Portfolio Experiments"
-permalink: /portfolio_experiment/
+permalink: /portfolio/
 ---
 
 # 🎨 Portfolio Experiments
