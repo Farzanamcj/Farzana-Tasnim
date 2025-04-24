@@ -34,10 +34,10 @@ Welcome to a curated selection of creative and critical media experiments. Each 
 ## 💻 Portfolio Experiment #2: Interactive Project Proposal (Twine)
 
 <div style="border: 1px solid #ccc; padding: 1em; border-radius: 10px; background-color: #fdfdfd;">
-  <strong><a href="/files/project-proposal-updated.html" target="_blank">🌀 Click here to experience the interactive Twine narrative</a></strong>
+  <strong><a href="https://farzanamcj.github.io/Farzana-Tasnim/files/Project_Proposal_Updated.html" target="_blank">🌀 Click here to experience the interactive Twine narrative</a></strong>
 
   <p>
-    This interactive project proposal, built using Twine (Harlowe), outlines a plan to create a digital portfolio on GitHub Pages. The enhanced version introduces an embedded <strong>YouTube tutorial</strong> to guide beginners, improving accessibility and educational value.
+    This interactive project proposal, built using Twine, outlines a plan to create a digital portfolio on GitHub Pages. The enhanced version introduces an embedded <strong>YouTube tutorial</strong> to guide beginners, improving accessibility and educational value.
   </p>
   <p>
     Expanded and refined beyond the original version, this Twine project now includes:
