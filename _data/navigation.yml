@@ -2,8 +2,6 @@ main:
   - title: "Portfolio Experiment"
     children:
         url: /portfolio/
-  - title: "Portfolio Experiments"
-    url: /portfolio/
   - title: "Publications"
     url: https://journals.sagepub.com/doi/10.1177/09760911241256556
   - title: "CV"
