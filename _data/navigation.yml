@@ -3,6 +3,8 @@ main:
     children:
       - title: "Portfolio Experiment #1: A Tiny Zine!"
         url: /zine/
+  - title: "Portfolio Experiments"
+    url: /portfolio/
   - title: "Publications"
     url: https://journals.sagepub.com/doi/10.1177/09760911241256556
   - title: "CV"
