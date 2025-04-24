@@ -35,16 +35,15 @@ Welcome to a curated selection of creative and critical media experiments. Each 
 🌀 Click here to view the interactive Twine HTML project
 </a>
 
-  <p>
-    This interactive project proposal, built using Twine, outlines a plan to create a digital portfolio on GitHub Pages. The enhanced version introduces an embedded <strong>YouTube tutorial</strong> to guide beginners, improving accessibility and educational value.
-  </p>
-  <p>
-    Expanded and refined beyond the original version, this Twine project now includes:
-    - An embedded multimedia experience (video tutorial)
-    - Reorganized branching structure for better flow
-    - A more immersive, interactive narrative to present the portfolio plan
-  </p>
-  <p>
-    This project fully meets the <strong>bolstering</strong> criteria—by adding new media, enhancing user interaction, and reimagining the form to offer a more engaging and complete experience.
-  </p>
-</div>
+<p>
+  This interactive project proposal, built using Twine, outlines a plan to create a digital portfolio on GitHub Pages. The enhanced version introduces an embedded <strong>YouTube tutorial</strong> to guide beginners, improving accessibility and educational value.
+</p>
+<p>
+  Expanded and refined beyond the original version, this Twine project now includes:
+  - An embedded multimedia experience (video tutorial)
+  - Reorganized branching structure for better flow
+  - A more immersive, interactive narrative to present the portfolio plan
+</p>
+<p>
+  This project fully meets the <strong>bolstering</strong> criteria—by adding new media, enhancing user interaction, and reimagining the form to offer a more engaging and complete experience.
+</p>
