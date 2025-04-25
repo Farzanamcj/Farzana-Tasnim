@@ -10,7 +10,8 @@ Welcome to a curated selection of creative and critical media experiments. Each 
 
 ---
 
-<img src="{{ '/images/aladin.jpeg' | relative_url }}" alt="Zine Cover - Aladdin" style="max-width: 600px; width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin: 1em 0;" />
+<img src="https://raw.githubusercontent.com/Farzanamcj/Farzana-Tasnim/master/images/aladin.jpeg" alt="Zine Cover - Aladdin" style="max-width: 600px; width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin: 1em 0;" />
+
 
 ## 📘 Portfolio Experiment #1: A Tiny Zine!
 
